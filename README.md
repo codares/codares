@@ -3,5 +3,6 @@
 - I have experience in mobile application development using java in Android Studio
 - I have knowledge in Web development front end using React
 - I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on mobile application projects
+- 💞️ I’m looking to collaborate on mobile application projects💞️
+- 💞️ I’m looking to collaborate on front end web projects
 - 📫 You can reach me email me @ driety013@gmail.com
