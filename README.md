@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leirey Languay
-- 👀 I’m interested in Web Development and  Mobile Application Development
-- I have experience in both web and mobile application development
-- I have knowledge in Web development front end using React and Vue.js
-- I’m currently learning kotlin
+- 👀 I’m interested in Web Development,  Mobile Application Development and Api Development
+- I have experience in api, web and mobile application development
+- I have knowledge in Web development front end using React and Using creating Micro service in Dot Net
+- I’m enhancing my current knowledge in software development
 - 💞️ I’m looking to collaborate on mobile application projects💞️
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me email me @ driety013@gmail.com
